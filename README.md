@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 ## 📫 Contáctame
 
 - **LinkedIn:** [Luis Pedraos](https://www.linkedin.com/in/alfonso-dev/)
-- **Mi Portafolio:**  [visita mi portafolio](https://alfonso-dev.onrender.com)
-
+  
 ¡Gracias por visitar mi perfil!
