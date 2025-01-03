@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 📊 Estadísticas del Perfil
 
-[![Luis Pedraos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpedraoss&show_icons=true&theme=radical)](https://github.com/brosgor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpedraoss&layout=compact&theme=radical)](https://github.com/brosgor)
+[![Luis Pedraos's GitHub stats](https://github-readme-stats.vercel.app/api?username=brosgor&show_icons=true&theme=radical)](https://github.com/brosgor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosgor&layout=compact&theme=radical)](https://github.com/brosgor)
 
 ## 📫 Contáctame
 
