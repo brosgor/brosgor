@@ -1,5 +1,5 @@
 <!--
-**lpedraoss/lpedraoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brosgor/brosgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 📊 Estadísticas del Perfil
 
-[![Luis Pedraos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpedraoss&show_icons=true&theme=radical)](https://github.com/lpedraoss)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpedraoss&layout=compact&theme=radical)](https://github.com/lpedraoss)
+[![Luis Pedraos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpedraoss&show_icons=true&theme=radical)](https://github.com/brosgor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpedraoss&layout=compact&theme=radical)](https://github.com/brosgor)
 
 ## 📫 Contáctame
 
