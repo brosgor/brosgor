@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" alt="Insomnia"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ## 📊 Estadísticas del Perfil
