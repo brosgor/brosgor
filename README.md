@@ -35,8 +35,13 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brosgor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brosgor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 ## 📫 Contáctame
 
 - **LinkedIn:** [Luis Pedraos](https://www.linkedin.com/in/alfonso-dev/)
   
 ¡Gracias por visitar mi perfil!
+
