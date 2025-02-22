@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hola, soy Luis Pedraos!
-
+# 👋 ![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF00&width=435&lines=¡Bienvenido+a+mi+perfil!;Soy+Luis+Pedraos;Desarrollador+apasionado+por+la+tecnología)
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia. Me apasiona el mundo de la programación y disfruto trabajando con una variedad de lenguajes y tecnologías.
 
 
