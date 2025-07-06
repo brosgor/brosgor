@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 ## 📊 Estadísticas del Perfil
 
 [![Luis Pedraos's GitHub stats](https://github-readme-stats.vercel.app/api?username=brosgor&show_icons=true&theme=radical)](https://github.com/brosgor)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosgor&layout=compact&theme=radical)](https://github.com/brosgor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosgor&layout=compact)](https://github.com/brosgor)
 
 ## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=brosgor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=brosgor&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Repositorio con Mayor Contribución
-![](https://github-contributor-stats.vercel.app/api?username=brosgor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=brosgor&limit=5&combine_all_yearly_contributions=true)
 
 
 ## 📫 Contáctame
